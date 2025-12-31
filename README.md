@@ -1,2 +1,1 @@
-# Lyrics_video-_generator
-Lyrics Video generate bot
+this is a lyrics video generator bot
