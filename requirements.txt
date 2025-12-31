@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+moviepy
+pillow
+numpy
+imageio
+imageio-ffmpeg
